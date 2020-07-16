@@ -10,8 +10,8 @@
   <h4>Height: <%= @pirate.height %> inches</h4>
 </div>
 
-<h1>Ship One</h1>
-
+<h1>Ship</h1>
+  <% @ships.each do |ship| %>
   <div class="ship">
     <p>Name: <%= ship.name%></p><br>
     <p>Type: <%= ship.type %></p><br>
@@ -19,13 +19,4 @@
   <% end %>
   </div><br>
 
-<h1>Ship Two</h1>
-
-  <div class="ship">
-    <p>Name: <%= ship.name%></p><br>
-    <p>Type: <%= ship.type %></p><br>
-    <p>Booty: <%= ship.booty %></p><br>
-  <% end %>
-  </div><br>
-  
 </html>
