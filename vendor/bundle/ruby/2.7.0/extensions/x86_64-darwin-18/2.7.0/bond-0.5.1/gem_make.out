@@ -1,0 +1,16 @@
+current directory: /Users/DogPa/Development/code/sinatra-nested-forms-onl01-seng-ft-061520/vendor/bundle/ruby/2.7.0/gems/bond-0.5.1/ext/readline_line_buffer
+/Users/DogPa/.rvm/rubies/ruby-2.7.1/bin/ruby -I /Users/DogPa/.rvm/rubies/ruby-2.7.1/lib/ruby/2.7.0 -r ./siteconf20200718-62160-1mq51k5.rb extconf.rb
+
+current directory: /Users/DogPa/Development/code/sinatra-nested-forms-onl01-seng-ft-061520/vendor/bundle/ruby/2.7.0/gems/bond-0.5.1/ext/readline_line_buffer
+make "DESTDIR=" clean
+make: *** No rule to make target `clean'.  Stop.
+
+current directory: /Users/DogPa/Development/code/sinatra-nested-forms-onl01-seng-ft-061520/vendor/bundle/ruby/2.7.0/gems/bond-0.5.1/ext/readline_line_buffer
+make "DESTDIR="
+echo "This is a dummy extension"
+This is a dummy extension
+
+current directory: /Users/DogPa/Development/code/sinatra-nested-forms-onl01-seng-ft-061520/vendor/bundle/ruby/2.7.0/gems/bond-0.5.1/ext/readline_line_buffer
+make "DESTDIR=" install
+echo "This is a dummy extension"
+This is a dummy extension
