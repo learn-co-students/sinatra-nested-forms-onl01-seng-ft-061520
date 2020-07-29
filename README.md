@@ -1,6 +1,6 @@
 # Sinatra Nested Forms Lab: Pirates!
 
-## Overview
+
 
 In this lab, you'll practice using nested forms in Sinatra.
 
